@@ -1,3 +1,3 @@
 # scroll-table
 
-Header and Footer are fixed table.
+Header and Footer are a fixed table.
